@@ -6,3 +6,4 @@ Link for reference work:
 Note: Use GPU to run the project
 
 1. https://colab.research.google.com/drive/1-areKgEFWgOwKRXIoIef9BkAu5RU_fzX#scrollTo=8QYcmKPP2fDN~
+2. https://colab.research.google.com/drive/1zhqPB7yX8GRhRBfWGipnNZb3LshRZDhC?authuser=1#scrollTo=OwRQaHC9yruK
