@@ -1,5 +1,5 @@
 # Classification_with_Tensorflow-PyTorch
-1. Wine Data Classification with TensorFlow
+1. Wine Data Classification with TensorFlow (ANN)
 2. Image Classification with Tensorflow and Pytorch (CNN based)
 
 Link for reference work: 
